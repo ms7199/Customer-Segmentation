@@ -6,7 +6,7 @@
 
 ## <b> Data Description </b>
 
-### <b>Attribute Information: </b>
+### <b>Attribute Information:- </b>
 
 * ### InvoiceNo: Invoice number. Nominal, a 6-digit integral number uniquely assigned to each transaction. If this code starts with letter 'c', it indicates a cancellation.
 * ### StockCode: Product (item) code. Nominal, a 5-digit integral number uniquely assigned to each distinct product.
